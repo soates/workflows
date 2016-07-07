@@ -1,0 +1,16 @@
+{
+  "name": "workflows",
+  "version": "1.0.0",
+  "author": "soates",
+  "description": "enables workflow based applications in angular",
+  "repository": "https://github.com/soates/workflows",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "2.0.0-rc.4",
+    "rxjs": "5.0.0-beta.6",
+    "symbol-observable": "^1.0.1",
+    "zone.js": "^0.6.6"
+  },
+  "main": "./index.js",
+  "typings": "./types.d.ts"
+}
